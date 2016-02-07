@@ -14,9 +14,9 @@ charts and comparisons to previous analyses.
 
 More context:
 
-* https://github.com/mezuro/kalibro_configurations/issues/62
-* https://github.com/mezuro/prezento/issues/278
-* https://github.com/mezuro/prezento/issues/20
+* <https://github.com/mezuro/kalibro_configurations/issues/62>
+* <https://github.com/mezuro/prezento/issues/278>
+* <https://github.com/mezuro/prezento/issues/20>
 
 **Mentor**: [Rafael Manzo](https://github.com/rafamanzo/)
 

@@ -11,9 +11,9 @@ As mentioned the KalibroConfigurations is just the entry point for the cloning p
 
 More context:
 
-* https://github.com/mezuro/kalibro_configurations/issues/40
-* https://github.com/mezuro/prezento/issues/48#issuecomment-48563334
-* https://github.com/mezuro/prezento/wiki/Reading-and-ReadingGroup-clone-behaviour
+* <https://github.com/mezuro/kalibro_configurations/issues/40>
+* <https://github.com/mezuro/prezento/issues/48#issuecomment-48563334>
+* <https://github.com/mezuro/prezento/wiki/Reading-and-ReadingGroup-clone-behaviour>
 
 **Mentor**: [Rafael Manzo](https://github.com/rafamanzo/)
 

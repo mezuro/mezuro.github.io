@@ -17,8 +17,8 @@ The Metric Collectors are supposed to be separated into gems that can be easily 
 
 More context:
 
-* https://github.com/mezuro/kalibro_processor/issues/145
-* https://github.com/mezuro/kalibro_processor/issues/144
+* <https://github.com/mezuro/kalibro_processor/issues/145>
+* <https://github.com/mezuro/kalibro_processor/issues/144>
 
 **Mentor**: [Rafael Manzo](https://github.com/rafamanzo/)
 
