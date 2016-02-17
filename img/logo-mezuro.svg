@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="logo-mezuro.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient4207-1"
+       inkscape:collect="always">
+      <stop
+         id="stop4217"
+         offset="0"
+         style="stop-color:#808080;stop-opacity:1" />
+      <stop
+         id="stop4219"
+         offset="1"
+         style="stop-color:#e6e6e6;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4207-1"
+       id="linearGradient4213"
+       x1="318.94565"
+       y1="649.24359"
+       x2="318.32718"
+       y2="635.73285"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-2.8255756,9.6951595)" />
+    <linearGradient
+       gradientTransform="matrix(-1,0,0,1,639.05322,9.6835183)"
+       inkscape:collect="always"
+       xlink:href="#linearGradient4207-1"
+       id="linearGradient4213-3"
+       x1="318.94565"
+       y1="649.24359"
+       x2="318.32718"
+       y2="635.73285"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4207-1"
+       id="linearGradient4255"
+       x1="365.56778"
+       y1="657.26038"
+       x2="365.89145"
+       y2="647.08179"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-10.052302,1.9741891)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="337.62614"
+     inkscape:cy="417.97276"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="704"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       position="383.21429,392.85715"
+       orientation="0,1"
+       id="guide4257" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path4203-0"
+       style="fill:url(#linearGradient4213-3);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 324.28038,648.34908 -0.0893,7.72321 -5.49107,-0.0893 z m 2.63393,-9.77679 0.0893,20.625 -14.91072,-0.0446 z"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="1081.5714"
+       inkscape:export-ydpi="1081.5714" />
+    <path
+       id="path4203"
+       style="fill:url(#linearGradient4213);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 311.94728,648.36071 0.0893,7.72321 5.49107,-0.0893 z m -2.63393,-9.77679 -0.0893,20.625 14.91072,-0.0446 z"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="1081.5714"
+       inkscape:export-ydpi="1081.5714" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient4255);fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="327.98343"
+       y="658.97925"
+       id="text4245"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="1081.5714"
+       inkscape:export-ydpi="1081.5714"><tspan
+         sodipodi:role="line"
+         id="tspan4247"
+         x="327.98343"
+         y="658.97925"
+         style="font-size:20px;fill:url(#linearGradient4255);fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">ezuro</tspan></text>
+  </g>
+</svg>
