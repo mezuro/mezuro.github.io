@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Proposing Ideas - Google Summer of Code 2016"
+date:   2016-02-17 16:45:20 -0200
+categories: idea
+highlight: true
+
+---
+
+If you have a suggestion for a new feature you'd like to contribute through the
+[Google Summer of Code](https://developers.google.com/open-source/gsoc/) initiative,
+please let us know so we can help you get it done!
+
+[Create an issue in the Github repository](https://github.com/mezuro/mezuro.github.io/issues/new), mention GSoC in your title,
+and fill out the necessary information in the template (and that you can also see below).
+
+* **Title**: give a name to your project proposal
+* **Target Service(s)**: there are several pieces of software that together make Mezuro work. Please give us a list of the services that you expect your proposal will work on
+* **Description**: provide details (be careful to not go too deep) on what is your proposal objective and how can it benefit the whole Mezuro project and its users
+* **Key steps**: enumerate the key steps of your project in order to provide a summary of its phases and steps
+* **Expected schedulew**: a guess on how much time you will spent on each key step
+* **What do you expect from Mezuro?**: tell us what are your personal expectations from the Mezuro community.
+* **Contact Information**: how can we reach you if your proposal gets accepted. We prefer email.
