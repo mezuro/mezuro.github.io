@@ -10,9 +10,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 744.09448819 1052.3622047"
+   width="450"
+   height="150"
+   viewBox="0 0 450.00001 150"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -40,9 +40,9 @@
        x2="318.32718"
        y2="635.73285"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-2.8255756,9.6951595)" />
+       gradientTransform="matrix(6.1549655,0,0,6.1549655,-1608.1286,-3231.2773)" />
     <linearGradient
-       gradientTransform="matrix(-1,0,0,1,639.05322,9.6835183)"
+       gradientTransform="matrix(-6.1549655,0,0,6.1549655,2342.6132,-3231.349)"
        inkscape:collect="always"
        xlink:href="#linearGradient4207-1"
        id="linearGradient4213-3"
@@ -60,7 +60,7 @@
        x2="365.89145"
        y2="647.08179"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-10.052302,1.9741891)" />
+       gradientTransform="matrix(6.1549655,0,0,6.1549655,-1652.6089,-3278.7996)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -70,20 +70,25 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.959798"
-     inkscape:cx="337.62614"
-     inkscape:cy="417.97276"
+     inkscape:cx="214.87146"
+     inkscape:cy="97.135849"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1366"
-     inkscape:window-height="704"
+     inkscape:window-width="3200"
+     inkscape:window-height="1750"
      inkscape:window-x="0"
-     inkscape:window-y="27"
-     inkscape:window-maximized="1">
+     inkscape:window-y="50"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     units="px">
     <sodipodi:guide
-       position="383.21429,392.85715"
+       position="74.140898,109.39353"
        orientation="0,1"
        id="guide4257" />
   </sodipodi:namedview>
@@ -102,34 +107,39 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
-    <path
-       id="path4203-0"
-       style="fill:url(#linearGradient4213-3);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 324.28038,648.34908 -0.0893,7.72321 -5.49107,-0.0893 z m 2.63393,-9.77679 0.0893,20.625 -14.91072,-0.0446 z"
-       inkscape:connector-curvature="0"
-       inkscape:export-xdpi="1081.5714"
-       inkscape:export-ydpi="1081.5714" />
-    <path
-       id="path4203"
-       style="fill:url(#linearGradient4213);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 311.94728,648.36071 0.0893,7.72321 5.49107,-0.0893 z m -2.63393,-9.77679 -0.0893,20.625 14.91072,-0.0446 z"
-       inkscape:connector-curvature="0"
-       inkscape:export-xdpi="1081.5714"
-       inkscape:export-ydpi="1081.5714" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient4255);fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       x="327.98343"
-       y="658.97925"
-       id="text4245"
-       sodipodi:linespacing="125%"
-       inkscape:export-xdpi="1081.5714"
-       inkscape:export-ydpi="1081.5714"><tspan
-         sodipodi:role="line"
-         id="tspan4247"
-         x="327.98343"
-         y="658.97925"
-         style="font-size:20px;fill:url(#linearGradient4255);fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">ezuro</tspan></text>
+     id="layer1"
+     transform="translate(-309.0734,-618.8986)">
+    <g
+       id="g3362"
+       transform="translate(10.101525,-7.071068)">
+      <path
+         inkscape:export-ydpi="1081.5714"
+         inkscape:export-xdpi="1081.5714"
+         inkscape:connector-curvature="0"
+         d="m 405.19723,699.61539 -0.54964,47.5361 -33.79734,-0.54964 z m 16.21175,-60.1758 0.54964,126.94617 -91.77497,-0.27452 z"
+         style="fill:url(#linearGradient4213-3);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.84648979;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path4203-0" />
+      <path
+         inkscape:export-ydpi="1081.5714"
+         inkscape:export-xdpi="1081.5714"
+         inkscape:connector-curvature="0"
+         d="m 329.28743,699.68698 0.54964,47.53609 33.79734,-0.54964 z m -16.21175,-60.1758 -0.54964,126.94615 91.77497,-0.27451 z"
+         style="fill:url(#linearGradient4213);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.84648979;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path4203" />
+      <text
+         inkscape:export-ydpi="1081.5714"
+         inkscape:export-xdpi="1081.5714"
+         sodipodi:linespacing="125%"
+         id="text4245"
+         y="765.04364"
+         x="427.98938"
+         style="font-style:normal;font-weight:normal;font-size:246.1986084px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient4255);fill-opacity:1;stroke:#000000;stroke-width:1.84648979;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-size:123.0993042px;fill:url(#linearGradient4255);fill-opacity:1;stroke:#000000;stroke-width:1.84648979;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           y="765.04364"
+           x="427.98938"
+           id="tspan4247"
+           sodipodi:role="line">ezuro</tspan></text>
+    </g>
   </g>
 </svg>
