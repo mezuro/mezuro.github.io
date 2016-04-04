@@ -4,6 +4,7 @@ title:  "Keywords"
 date:   2016-04-04 15:10:20 -0200
 categories: tutorial
 highlight: true
+image: /img/keyword.jpg
 
 ---
 

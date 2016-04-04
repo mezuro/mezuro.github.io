@@ -4,6 +4,7 @@ title:  "Setting up a new configuration"
 date:   2016-04-04 13:45:20 -0200
 categories: tutorial
 highlight: true
+image: /img/configuration.png
 
 ---
 

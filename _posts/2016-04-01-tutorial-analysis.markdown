@@ -4,6 +4,7 @@ title:  "Analyzing a repository"
 date:   2016-04-01 16:45:20 -0200
 categories: tutorial
 highlight: true
+image: /img/analysis.png
 
 ---
 
