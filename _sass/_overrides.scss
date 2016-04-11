@@ -1,0 +1,20 @@
+.section-highlight {
+  header.tutorial-header {
+    background: url('../img/tutorial.jpg') no-repeat center / cover;
+  }
+}
+
+.post.mdl-card {
+  .mdl-card__title {
+    padding: 0;
+  }
+
+  .mdl-card__title-text {
+    background-color: rgba(0,0,0,0.2);
+
+    h2 {
+      padding: 0 16px;
+      margin: 16px 0;
+    }
+  }
+}
