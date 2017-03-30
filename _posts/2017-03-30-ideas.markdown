@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Contribution Ideas"
+date:   2017-03-30 12:03:51 -0200
+categories: idea
+highlight: true
+
+---
+Want to contribute to the project? Below you can find a list of existing contribution ideas and instructions on how to suggest your own. 
